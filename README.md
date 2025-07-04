@@ -1,1 +1,3 @@
-# sql-DW-project
+# Data Warehouse and Analytics
+
+## Project Requirements
